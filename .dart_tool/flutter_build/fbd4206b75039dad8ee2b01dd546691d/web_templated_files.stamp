@@ -1,0 +1,1 @@
+{"inputs":["D:\\SSA\\ssa_test\\web\\*\\index.html","D:\\SSA\\ssa_test\\web\\flutter_bootstrap.js","D:\\flutter_3.22.1\\flutter\\bin\\internal\\engine.version"],"outputs":["D:\\SSA\\ssa_test\\build\\web\\*\\index.html","D:\\SSA\\ssa_test\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}
